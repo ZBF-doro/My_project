@@ -7,3 +7,4 @@
 3.启动后端：python manager.py runserver;启动前端：npm run serve
 4.遇到报错下载对应包就行，由于包太多，这里不作过多赘述
 5.由于本人开发时，是在k盘下进行的并且使用的是私人的数据库账密，所以需要用户自行更改VeggieVision文件夹下的settings.py的一些参数配置
+6.数据库模型如veggievision_db.sql所示
